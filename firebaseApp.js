@@ -8,13 +8,13 @@ import { getStorage } from "firebase/storage";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDlfeVwzbjeM2oxK6XL2hmDAyB-y-FMNLM",
-    authDomain: "passtrack-3e434.firebaseapp.com",
-    projectId: "passtrack-3e434",
-    storageBucket: "passtrack-3e434.appspot.com",
-    messagingSenderId: "491220286264",
-    appId: "1:491220286264:web:eb0c1e8e7f994aa72e9fcd",
-    measurementId: "G-GY5N76LQCH"
+    apiKey: "AIzaSyCYmqjDfyDLW_lnipSyfPM3pWkwYzeiMSw",
+    authDomain: "lumora-scents.firebaseapp.com",
+    projectId: "lumora-scents",
+    storageBucket: "lumora-scents.firebasestorage.app",
+    messagingSenderId: "481131716151",
+    appId: "1:481131716151:web:03348c0b2545125edc29b2",
+    measurementId: "G-LHR9PW23TC"
   };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
